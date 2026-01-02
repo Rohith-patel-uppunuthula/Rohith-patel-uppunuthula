@@ -50,69 +50,75 @@
 
 <br>
 
-## Recent Activity
+## 👨‍💻 About Me
+
+Full Stack Developer specializing in building scalable web applications with Django and modern JavaScript frameworks. Passionate about clean code, system design, and solving complex problems.
+
+**Current Focus:** Data Structures & Algorithms, System Design, and Advanced Web Systems
+
+<br>
+
+## 🛠️ Technical Skills
+
+**Backend:** Python, Django, Django REST Framework, PostgreSQL, SQLite
+
+**Frontend:** JavaScript, TypeScript, React, HTML5, CSS3
+
+**Tools & Others:** Git, GitHub, Docker, Linux, Vercel, Postman, Node.js, Express
+
+<br>
+
+## 💼 Featured Projects
+
+### 🔧 Servy
+Backend API system built with Django REST Framework featuring 24 endpoints, JWT authentication, and comprehensive test coverage (82%). Includes 12 modular components with P95 latency under 120ms.
+
+[View Repository →](https://github.com/Rohith-patel-uppunuthula/servy)
+
+### 🎨 Portfolio
+High-performance personal portfolio with Lighthouse score of 98, featuring 18 reusable components and fully responsive design across 4 breakpoints. Built with modern web technologies.
+
+[View Repository →](https://github.com/Rohith-patel-uppunuthula/portfolio)
+
+<br>
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rohith-patel-uppunuthula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-patel-uppunuthula&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0" />
 
-</div>
-
-<div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-patel-uppunuthula&bg_color=0D1117&color=64FFDA&line=64FFDA&point=8892B0&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&logoColor=64FFDA)
-![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django&logoColor=64FFDA)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=64FFDA)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=64FFDA)
-![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react&logoColor=64FFDA)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js&logoColor=64FFDA)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=64FFDA)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=64FFDA)
 
 </div>
 
 <br>
 
-## Featured Projects
+## 🎯 2025 Roadmap
 
-<div align="center">
-
-<a href="https://github.com/Rohith-patel-uppunuthula/servy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-patel-uppunuthula&repo=servy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA"/>
-</a>
-<a href="https://github.com/Rohith-patel-uppunuthula/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-patel-uppunuthula&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA"/>
-</a>
-
-</div>
+- ✅ Deep dive into Data Structures & Algorithms (Jan - Apr)
+- 🔄 Master System Design patterns (Mar - Jun)
+- 📅 Explore Advanced Web Systems (Jul - Sep)
+- 📅 Contribute to Open Source projects (Jul - Dec)
+- 🔄 Enhance Servy with new features (Sep - Nov)
 
 <br>
 
-## Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=64FFDA)](https://linkedin.com/in/rohith-uppunuthula)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=flat&logo=vercel&logoColor=64FFDA)](https://rohith-uppunuthula.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=flat&logo=gmail&logoColor=64FFDA)](mailto:uppunuthula.rohith@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-uppunuthula)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohith-uppunuthula.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uppunuthula.rohith@gmail.com)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rohith-patel-uppunuthula&color=64FFDA&style=flat&label=Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Rohith-patel-uppunuthula&color=64FFDA&style=flat&label=Profile%20Views)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Always learning, always building.</sub>
+<sub>💻 Coding • 🚀 Building • 📚 Learning</sub>
 </div>
